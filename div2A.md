@@ -67,7 +67,7 @@
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
 | 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
 | 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 |  |
-| 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 |  |
+| 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 | AC |
 | 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 | AC Ed |
 | 70 | [Single Push](https://codeforces.com/problemset/problem/1253/A) | 1000 |  |
 | 71 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 |  |
