@@ -64,7 +64,7 @@
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 | CS |
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 | AC |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | AC |
-| 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
+| 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 | AC |
 | 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
 | 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 |  |
 | 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 | AC |
