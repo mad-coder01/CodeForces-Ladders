@@ -75,7 +75,7 @@
 | 73 | [Div. 64](https://codeforces.com/problemset/problem/887/A) | 1100 | AC |
 | 74 | [Salem and Sticks ](https://codeforces.com/problemset/problem/1105/A) | 1100 | AC Ed |
 | 75 | [Karen and Morning](https://codeforces.com/problemset/problem/816/A) | 1100 | AC TCdebug |
-| 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 |  |
+| 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 |AC,Too many WA |
 | 77 | [Odds and Ends](https://codeforces.com/problemset/problem/849/A) | 1100 |  |
 | 78 | [New Building for SIS](https://codeforces.com/problemset/problem/1020/A) | 1100 |  |
 | 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 |  |
