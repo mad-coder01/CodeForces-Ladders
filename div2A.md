@@ -78,7 +78,7 @@
 | 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 |AC,Too many WA |
 | 77 | [Odds and Ends](https://codeforces.com/problemset/problem/849/A) | 1100 | AC |
 | 78 | [New Building for SIS](https://codeforces.com/problemset/problem/1020/A) | 1100 | AC |
-| 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 |  |
+| 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 | AC |
 | 80 | [Gotta Catch Em' All!](https://codeforces.com/problemset/problem/757/A) | 1100 |  |
 | 81 | [Shell Game](https://codeforces.com/problemset/problem/777/A) | 1100 |  |
 | 82 | [Feed the cat](https://codeforces.com/problemset/problem/955/A) | 1100 |  |
