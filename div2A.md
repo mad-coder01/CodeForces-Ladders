@@ -83,7 +83,7 @@
 | 81 | [Shell Game](https://codeforces.com/problemset/problem/777/A) | 1100 | AC,WA+TLE |
 | 82 | [Feed the cat](https://codeforces.com/problemset/problem/955/A) | 1100 | AC,Small Bug |
 | 83 | [Snacktower](https://codeforces.com/problemset/problem/767/A) | 1200 | AC ,TLE,Improve Impli |
-| 84 | [Sweet Problem](https://codeforces.com/problemset/problem/1263/A) | 1200 |  |
+| 84 | [Sweet Problem](https://codeforces.com/problemset/problem/1263/A) | 1200 | AC Ed not understood properly |
 | 85 | [Row](https://codeforces.com/problemset/problem/982/A) | 1200 |  |
 | 86 | [Alex and broken contest](https://codeforces.com/problemset/problem/877/A) | 1200 |  |
 | 87 | [Jamie and Alarm Snooze](https://codeforces.com/problemset/problem/916/A) | 1200 |  |
