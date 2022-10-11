@@ -11,6 +11,8 @@ Just star the repo and then fork it, and then you can personally update `Solved`
 
 Also, **Follow** me on Github to receive updates about upcoming CF related tools.
 
+Practise these if you are a beginner.
+
 ### Level-Wise Ladders:
 * [Div2A](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/div2A.md)
 * [Div2B](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/div2B.md)
