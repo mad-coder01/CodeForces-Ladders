@@ -1,5 +1,5 @@
 # CodeForces-Ladders
-**Latest ladders for CodeForces Practice**
+**Latest ladders for CodeForces Practice:**
 
 
 The main reason I created this, is because the a2oj ladders are pretty outdated (all from 4-5 year old contests). 
